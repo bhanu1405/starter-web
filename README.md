@@ -21,3 +21,7 @@ These is the contribute the new line
 These is the refernce of the copyright
 
 Please adding the new lines after branch update
+
+# Example
+
+Adding one line for the rebase
